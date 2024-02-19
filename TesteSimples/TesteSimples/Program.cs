@@ -22,5 +22,7 @@ class Program
         // Cria um novo arquivo de texto no caminho especificado e escreve a string "oi" nele
         // Se o arquivo já existir, este método irá sobrescrever o arquivo existente
         File.WriteAllText(filePath, "oi");
+        File.WriteAllText(filePath, "quero");
+        File.WriteAllText(filePath, "testar");
     }
 }
