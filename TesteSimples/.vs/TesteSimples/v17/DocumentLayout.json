@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wallace Sousa\\Desktop\\Test\\TesteSimples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F099179A-5A8F-4EF0-89F6-20169529C96E}|TesteSimples\\TesteSimples.csproj|c:\\users\\wallace sousa\\desktop\\test\\testesimples\\testesimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F099179A-5A8F-4EF0-89F6-20169529C96E}|TesteSimples\\TesteSimples.csproj|solutionrelative:testesimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wallace Sousa\\Desktop\\Test\\TesteSimples\\TesteSimples\\Program.cs",
+              "RelativeDocumentMoniker": "TesteSimples\\Program.cs",
+              "ToolTip": "C:\\Users\\Wallace Sousa\\Desktop\\Test\\TesteSimples\\TesteSimples\\Program.cs",
+              "RelativeToolTip": "TesteSimples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T01:31:44.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

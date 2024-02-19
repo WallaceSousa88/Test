@@ -1,0 +1,14 @@
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\bin\Debug\net8.0\TesteSimples.exe
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\bin\Debug\net8.0\TesteSimples.deps.json
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\bin\Debug\net8.0\TesteSimples.runtimeconfig.json
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\bin\Debug\net8.0\TesteSimples.dll
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\bin\Debug\net8.0\TesteSimples.pdb
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\TesteSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\TesteSimples.AssemblyInfoInputs.cache
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\TesteSimples.AssemblyInfo.cs
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\TesteSimples.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\TesteSimples.dll
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\refint\TesteSimples.dll
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\TesteSimples.pdb
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\TesteSimples.genruntimeconfig.cache
+C:\Users\Wallace Sousa\Desktop\Test\TesteSimples\TesteSimples\obj\Debug\net8.0\ref\TesteSimples.dll
